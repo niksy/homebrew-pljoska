@@ -3,30 +3,30 @@ class FontMicrosoftCleartypeFamily < Cask
   homepage 'http://www.microsoft.com/typography/cleartypefonts.mspx'
   version 'latest'
   no_checksum
-  font 'Calibri Bold Italic.ttf',
-       'Calibri Bold.ttf',
-       'Calibri Italic.ttf',
-       'Calibri.ttf',
-       'Cambria Bold Italic.ttf',
-       'Cambria Bold.ttf',
-       'Cambria Italic.ttf',
-       'Cambria.ttf',
-       'Candara Bold Italic.ttf',
-       'Candara Bold.ttf',
-       'Candara Italic.ttf',
-       'Candara.ttf',
-       'Consolas Bold Italic.ttf',
-       'Consolas Bold.ttf',
-       'Consolas Italic.ttf',
-       'Consolas.ttf',
-       'Constantia Bold Italic.ttf',
-       'Constantia Bold.ttf',
-       'Constantia Italic.ttf',
-       'Constantia.ttf',
-       'Corbel Bold Italic.ttf',
-       'Corbel Bold.ttf',
-       'Corbel Italic.ttf',
-       'Corbel.ttf'
+  font 'Calibri Bold Italic.ttf'
+  font 'Calibri Bold.ttf'
+  font 'Calibri Italic.ttf'
+  font 'Calibri.ttf'
+  font 'Cambria Bold Italic.ttf'
+  font 'Cambria Bold.ttf'
+  font 'Cambria Italic.ttf'
+  font 'Cambria.ttf'
+  font 'Candara Bold Italic.ttf'
+  font 'Candara Bold.ttf'
+  font 'Candara Italic.ttf'
+  font 'Candara.ttf'
+  font 'Consolas Bold Italic.ttf'
+  font 'Consolas Bold.ttf'
+  font 'Consolas Italic.ttf'
+  font 'Consolas.ttf'
+  font 'Constantia Bold Italic.ttf'
+  font 'Constantia Bold.ttf'
+  font 'Constantia Italic.ttf'
+  font 'Constantia.ttf'
+  font 'Corbel Bold Italic.ttf'
+  font 'Corbel Bold.ttf'
+  font 'Corbel Italic.ttf'
+  font 'Corbel.ttf'
   caveats <<-EOS.undent
       Fonts downloaded as per http://www.wezm.net/technical/2010/08/howto-install-consolas-font-mac/.
 

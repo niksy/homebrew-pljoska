@@ -13,6 +13,10 @@ brew install FORMULA
 
 ## Formulae available
 
+### [flegma](https://github.com/niksy/flegma)
+
+Simple network bandwidth throttler.
+
 ### [entizeta](https://github.com/niksy/entizeta)
 
 Simple entity converter.

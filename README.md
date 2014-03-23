@@ -40,6 +40,13 @@ have already found a solution, feel free to use it (source code is
 available, just ask) :
 http://maxao.free.fr/telechargements/setfileicon.gz
 
+### [Microsoft ClearType font family](http://www.microsoft.com/typography/cleartypefonts.mspx)
+
+#### Kudos
+
+* [Legal font download on OS X](http://www.wezm.net/technical/2010/08/howto-install-consolas-font-mac/)
+* [Consolas modification for proper line height](https://gist.github.com/evocateur/79238)
+
 ---
 
 Why "pljoska"? Croatian name for [hip flask](http://en.wikipedia.org/wiki/Hip_flask). I know, it’s stupid.

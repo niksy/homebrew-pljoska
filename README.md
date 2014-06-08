@@ -21,17 +21,6 @@ Simple network bandwidth throttler.
 
 Simple entity converter.
 
-### cheat
-
-> '[cheat](https://github.com/jahendrie/cheat)' is a cheat-sheet script for people who are too impatient to browse
-the manual page for a given program.  It's well-suited for those who might
-use a program only occasionally, and need only brief reminders on the
-'important bits'; the cliff-notes version of man pages, if you will.
-
-> This particular version, written as a Bash script, is a reimplementation of
-a Python script originally written by Chris Lane.  The other version is the
-'main' version; this is the off-shoot.
-
 ### [setfileicon](http://www.cocoabuilder.com/archive/xcode/250445-custom-icon-for-bundle.html#250519)
 
 > I've written a command line tool that modify the icon of a file or

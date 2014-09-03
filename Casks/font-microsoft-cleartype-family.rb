@@ -2,7 +2,7 @@ class FontMicrosoftCleartypeFamily < Cask
   url 'https://dl.dropboxusercontent.com/s/6gjkp0p42e5qxzy/MicrosoftClearTypeFontFamily.zip'
   homepage 'http://www.microsoft.com/typography/cleartypefonts.mspx'
   version 'latest'
-  no_checksum
+  sha256 :no_check
   font 'Calibri Bold Italic.ttf'
   font 'Calibri Bold.ttf'
   font 'Calibri Italic.ttf'

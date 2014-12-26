@@ -1,8 +1,11 @@
-class FontMicrosoftCleartypeFamily < Cask
+cask :v1 => 'font-microsoft-cleartype-family' do
+
+  version :latest
+  sha256 :no_check
   url 'https://dl.dropboxusercontent.com/s/6gjkp0p42e5qxzy/MicrosoftClearTypeFontFamily.zip'
   homepage 'http://www.microsoft.com/typography/cleartypefonts.mspx'
-  version 'latest'
-  sha256 :no_check
+  license :other
+
   font 'Calibri Bold Italic.ttf'
   font 'Calibri Bold.ttf'
   font 'Calibri Italic.ttf'
@@ -27,9 +30,13 @@ class FontMicrosoftCleartypeFamily < Cask
   font 'Corbel Bold.ttf'
   font 'Corbel Italic.ttf'
   font 'Corbel.ttf'
-  caveats <<-EOS.undent
+
+  caveats do
+    <<-EOS.undent
       Fonts downloaded as per http://www.wezm.net/technical/2010/08/howto-install-consolas-font-mac/.
 
       Contains modified Consolas typeface as per https://gist.github.com/evocateur/79238.
-  EOS
+    EOS
+  end
+
 end

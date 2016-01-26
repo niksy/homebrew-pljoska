@@ -1,4 +1,4 @@
-cask :v1 => 'font-microsoft-cleartype-family' do
+cask 'font-microsoft-cleartype-family' do
 
   version :latest
   sha256 :no_check

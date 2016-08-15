@@ -31,6 +31,8 @@ http://maxao.free.fr/telechargements/setfileicon.gz
 
 ### [Microsoft ClearType font family](http://www.microsoft.com/typography/cleartypefonts.mspx)
 
+### [mpv](https://mpv.io/)
+
 #### Kudos
 
 * [Legal font download on OS X](http://www.wezm.net/technical/2010/08/howto-install-consolas-font-mac/)

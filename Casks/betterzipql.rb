@@ -6,5 +6,5 @@ cask 'betterzipql' do
   name 'BetterZipQL'
   homepage 'https://macitbetter.com/BetterZip-Quick-Look-Generator/'
 
-  qlplugin '#{appdir}/BetterZip.app/Contents/Library/QuickLook/BetterZipQL.qlgenerator'
+  qlplugin "#{appdir}/BetterZip.app/Contents/Library/QuickLook/BetterZipQL.qlgenerator"
 end

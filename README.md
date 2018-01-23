@@ -18,7 +18,6 @@ brew install FORMULA
 * [setfileicon](http://www.cocoabuilder.com/archive/xcode/250445-custom-icon-for-bundle.html#250519)
 * [Microsoft ClearType font family](http://www.microsoft.com/typography/cleartypefonts.mspx)
 * [mpv](https://mpv.io/)
-* [betterzipql](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 #### Kudos
 

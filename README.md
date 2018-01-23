@@ -13,25 +13,12 @@ brew install FORMULA
 
 ## Formulae available
 
-### [flegma](https://github.com/niksy/flegma)
-
-Simple network bandwidth throttler.
-
-### [entizeta](https://github.com/niksy/entizeta)
-
-Simple entity converter.
-
-### [setfileicon](http://www.cocoabuilder.com/archive/xcode/250445-custom-icon-for-bundle.html#250519)
-
-> I've written a command line tool that modify the icon of a file or
-folder (it was also for setting the icon of a bundle). If you didn't
-have already found a solution, feel free to use it (source code is
-available, just ask) :
-http://maxao.free.fr/telechargements/setfileicon.gz
-
-### [Microsoft ClearType font family](http://www.microsoft.com/typography/cleartypefonts.mspx)
-
-### [mpv](https://mpv.io/)
+* [flegma](https://github.com/niksy/flegma)
+* [entizeta](https://github.com/niksy/entizeta)
+* [setfileicon](http://www.cocoabuilder.com/archive/xcode/250445-custom-icon-for-bundle.html#250519)
+* [Microsoft ClearType font family](http://www.microsoft.com/typography/cleartypefonts.mspx)
+* [mpv](https://mpv.io/)
+* [betterzipql](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 #### Kudos
 

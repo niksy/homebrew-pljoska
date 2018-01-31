@@ -6,7 +6,6 @@ cask 'mpv' do
   url "https://laboratory.stolendata.net/~djinn/mpv_osx/mpv-#{version}.tar.gz"
   name 'mpv'
   homepage 'https://mpv.io/'
-  license :gpl
 
   app 'mpv.app'
   binary 'mpv.app/Contents/MacOS/mpv'

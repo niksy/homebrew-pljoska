@@ -4,7 +4,6 @@ cask 'font-microsoft-cleartype-family' do
   sha256 :no_check
   url 'https://dl.dropboxusercontent.com/s/6gjkp0p42e5qxzy/MicrosoftClearTypeFontFamily.zip'
   homepage 'http://www.microsoft.com/typography/cleartypefonts.mspx'
-  license :other
 
   font 'Calibri Bold Italic.ttf'
   font 'Calibri Bold.ttf'

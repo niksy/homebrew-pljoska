@@ -30,12 +30,10 @@ cask 'font-microsoft-cleartype-family' do
   font 'Corbel Italic.ttf'
   font 'Corbel.ttf'
 
-  caveats do
-    <<-EOS.undent
-      Fonts downloaded as per http://www.wezm.net/technical/2010/08/howto-install-consolas-font-mac/.
+  caveats <<~EOS
+    Fonts downloaded as per http://www.wezm.net/technical/2010/08/howto-install-consolas-font-mac/.
 
-      Contains modified Consolas typeface as per https://gist.github.com/evocateur/79238.
-    EOS
-  end
+    Contains modified Consolas typeface as per https://gist.github.com/evocateur/79238.
+  EOS
 
 end

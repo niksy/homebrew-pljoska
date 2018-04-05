@@ -2,7 +2,7 @@ cask 'font-microsoft-cleartype-family' do
 
   version :latest
   sha256 :no_check
-  url 'https://dl.dropboxusercontent.com/s/6gjkp0p42e5qxzy/MicrosoftClearTypeFontFamily.zip'
+  url 'https://github.com/niksy/homebrew-pljoska/raw/master/downloads/microsoft-cleartype-font-family.zip'
   homepage 'http://www.microsoft.com/typography/cleartypefonts.mspx'
 
   font 'Calibri Bold Italic.ttf'

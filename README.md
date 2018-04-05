@@ -13,9 +13,6 @@ brew install FORMULA
 
 ## Formulae available
 
-* [flegma](https://github.com/niksy/flegma)
-* [entizeta](https://github.com/niksy/entizeta)
-* [setfileicon](http://www.cocoabuilder.com/archive/xcode/250445-custom-icon-for-bundle.html#250519)
 * [Microsoft ClearType font family](http://www.microsoft.com/typography/cleartypefonts.mspx)
 
 #### Kudos

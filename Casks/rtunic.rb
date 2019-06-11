@@ -8,7 +8,7 @@ cask 'rtunic' do
 
   depends_on macos: '<= :mojave'
 
-  pkg "RTUNICv#{version}.pkg"
+  pkg "Ethernet Driver/RTUNICv#{version}.pkg"
 
   uninstall pkgutil: [
                        'com.realtek.usbeth.*',
@@ -19,7 +19,7 @@ cask 'rtunic' do
                        'com.realtek.driver.AppleRTL815XEthernet',
                      ],
             script:  [
-                       executable: "#{staged_path}/uninstall/uninstall.command",
+                       executable: "#{staged_path}/Ethernet Driver/uninstall/uninstall.command",
                        sudo:       true,
                      ],
             delete:  [

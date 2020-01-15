@@ -6,7 +6,7 @@ cask 'rtunic' do
   name 'Realtek USB hub drivers'
   homepage 'https://lmp-adapter.com/support/'
 
-  depends_on macos: '<= :mojave'
+  depends_on macos: '<= :catalina'
 
   pkg "Ethernet Driver/RTUNICv#{version}.pkg"
 

@@ -15,6 +15,7 @@ brew install FORMULA
 
 * [Microsoft ClearType font family](http://www.microsoft.com/typography/cleartypefonts.mspx)
 * [USB 3.0 hub drivers](https://github.com/Homebrew/homebrew-cask-drivers/blob/8dfffaec691ac21e7045dd5609e819a9fe1066a2/Casks/anker-rtunic.rb)
+* [GitX](https://gist.github.com/diasjorge/c5ce0c2dd55270ab8e5843e929b07738)
 
 #### Kudos
 

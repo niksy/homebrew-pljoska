@@ -1,12 +1,12 @@
 cask "gitx-gitx" do
   arch = Hardware::CPU.intel? ? "x86_64" : "arm64"
 
-  version "0.20"
+  version "0.23"
 
   if Hardware::CPU.intel?
-    sha256 "767cc46bb18428bef484e58079bc9c04ed1c8651e204c11c7dd78ae37f289db1"
+    sha256 "ba5edc82c260fbdf4b6e74c2e3a455b270ebde6d5c94a9140f212bec1cab9507"
   else
-    sha256 "1173a59e0e0570432f4b2dd267ffd09c9edb9ccd0a418aae998509d3034754dd"
+    sha256 "6b350adf5d38826d834a25e0cdacb3f3bc38670cbd928a59bd7982b1d528ea0f"
   end
 
   url "https://github.com/gitx/gitx/releases/download/#{version}/GitX-#{arch}.dmg",

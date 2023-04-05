@@ -24,7 +24,10 @@ cask "openconnectui2" do
 
   app "OpenConnectUI2.app"
 
-  uninstall launchctl: "se.rrva.OpenConnectUI2.ToolX"
+  uninstall delete:     [
+              "/Library/PrivilegedHelperTools/se.rrva.OpenConnectUI2.ToolX",
+            ],
+            launchctl: "se.rrva.OpenConnectUI2.ToolX"
 
   zap trash: [
     "~/Library/Preferences/se.rrva.OpenConnectUI2"

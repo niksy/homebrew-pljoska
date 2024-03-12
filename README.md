@@ -18,6 +18,7 @@ brew install FORMULA
 * [GitX](https://gist.github.com/diasjorge/c5ce0c2dd55270ab8e5843e929b07738)
 * [Smart card drivers](https://github.com/Homebrew/homebrew-cask-drivers/blob/HEAD/Casks/acs-acr39u-smartcard-driver.rb)
 * [eID for Croatia](https://www.eid.hr/)
+* [JetBrains Mono, slashed, no ligatures](https://github.com/sharpjs/JetBrainsMonoSlashed)
 
 #### Kudos
 
